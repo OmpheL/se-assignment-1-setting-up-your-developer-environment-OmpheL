@@ -1,0 +1,9 @@
+Deliverables
+1. Detailed Document with Step-by-Step Setup Instructions and Screenshots
+The detailed document provides clear instructions with accompanying screenshots to guide you through setting up your developer environment. Each step is designed to ensure that you can easily follow along and complete the setup without any confusion.
+
+2. GitHub Repository Containing a Sample Project Initialized with Git and Configuration Files
+The GitHub repository includes a sample project that is already set up with Git. This allows you to see firsthand how to start a new project using version control. It also includes essential configuration files, like .gitignore, which helps manage what files are tracked by Git.
+
+3. Reflection on Challenges Faced and Strategies Used to Overcome Them
+Setting up a development environment can have its challenges, such as software compatibility issues or configuration errors. In overcoming these challenges, strategies like thorough research, incremental setup, and seeking advice from others were employed. These reflections provide insights into troubleshooting techniques and aim to improve the setup process for future projects.
